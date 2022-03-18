@@ -22,3 +22,4 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/lean/l
 # git clone -b master https://github.com/vernesong/OpenClash.git package/lean/luci-app-openclash                         #openclash
 # git clone https://github.com/tty228/luci-app-serverchan.git package/lean/luci-app-serverchan                           #微信推送
 # git clone https://github.com/jefferymvp/luci-app-koolproxyR.git package/lean/luci-app-koolproxyR
+git clone https://github.com/sirpdboy/luci-theme-opentopd package/luci-theme-opentopd
